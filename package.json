@@ -1,0 +1,25 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "https://curso.dev exercise.",
+  "homepage": "https://github.com/LuisHRV/clone-Tabnews#readme",
+  "bugs": {
+    "url": "https://github.com/LuisHRV/clone-Tabnews/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisHRV/clone-Tabnews.git"
+  },
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^16.2.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
